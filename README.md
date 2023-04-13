@@ -1,6 +1,6 @@
 # Gtps.Finance is a fork of Uniswap Labs Interface
 - Website: [gtps.finance](https://gtps.finance/)
-- Interface: [gtpsfinance.com](https://gtpsfinance.com)
+- Interface: [gtps.finance](https://gtps.finance)
 - medium [https://medium.com/@welcome_73960]
 - Twitter: [@GtpsFinance](https://twitter.com/GtpsFinance)
 - Reddit: [/r/GtpsFinance](https://www.reddit.com/r/GtpsFinance/)
@@ -17,6 +17,7 @@ Tomorrow's World Order
 
 
 https://gtps.finance/swap/privacy-policy
+
 Gtps.Finance Privacy Policy
 
 Gtps.Finance 
