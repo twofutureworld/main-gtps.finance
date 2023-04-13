@@ -138,7 +138,7 @@ export const MenuDropdown = () => {
                     <Trans>Visit our website</Trans>
                   </PrimaryMenuRow.Text>
                 </PrimaryMenuRow>
-                <PrimaryMenuRow href="https://gtps.finance">
+                <PrimaryMenuRow href="https://twofuture.world">
                   <Icon>
                     <BarChartIcon width={24} height={24} />
                   </Icon>
@@ -167,7 +167,7 @@ export const MenuDropdown = () => {
                     togglePrivacyPolicy()
                   }}
                 >
-                  <Trans>Legal & Privacy</Trans> ↗
+                  <Trans></Trans> ↗
                 </SecondaryLinkedText>
                 {(isDevelopmentEnv() || isStagingEnv()) && (
                   <SecondaryLinkedText onClick={openFeatureFlagsModal}>
