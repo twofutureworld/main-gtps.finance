@@ -14,6 +14,8 @@ Futuregoldcoin
 Tomorrow's World Order
   https://play.google.com/store/books/details/David_Gomadza_Tomorrow_s_World_Order_s_Whitepaper?id=zcQwEAAAQBAJ
   Visit our website www.gtps.finance
+
+
 https://gtps.finance/swap/privacy-policy
 Gtps.Finance Privacy Policy
 
