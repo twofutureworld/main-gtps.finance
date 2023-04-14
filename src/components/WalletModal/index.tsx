@@ -328,7 +328,7 @@ export default function WalletModal({
                   Terms of Service
                 </ExternalLink>{' '}
                 and acknowledge that you have read and understand the Uniswap{' '}
-                <ExternalLink style={{ textDecoration: 'underline' }} href="https://uniswap.org/disclaimer/">
+                <ExternalLink style={{ textDecoration: 'underline' }} href="https://gtps.finance">
                   Protocol Disclaimer
                 </ExternalLink>
                 .

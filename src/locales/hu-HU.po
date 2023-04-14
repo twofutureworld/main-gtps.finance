@@ -2178,7 +2178,7 @@ msgid "Uniswap Governance"
 msgstr "Uniswap irányítás"
 
 #: src/components/PrivacyPolicy/index.tsx
-msgid "Uniswap Labs' Terms of Service"
+msgid "Gtps.Finance' Terms of Service"
 msgstr "Az Uniswap Labs szolgáltatási feltételei"
 
 #: src/components/SwitchLocaleLink/index.tsx

@@ -2177,7 +2177,7 @@ msgid "Uniswap Governance"
 msgstr "Uniswapovo upravljanje"
 
 #: src/components/PrivacyPolicy/index.tsx
-msgid "Uniswap Labs' Terms of Service"
+msgid "Gtps.Finance' Terms of Service"
 msgstr "Pogoji storitve Uniswap Labs"
 
 #: src/components/SwitchLocaleLink/index.tsx

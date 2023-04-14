@@ -167,7 +167,7 @@ export const MenuDropdown = () => {
                     togglePrivacyPolicy()
                   }}
                 >
-                  <Trans></Trans> ↗
+                  <Trans>Legal and Privacy Policy</Trans> ↗
                 </SecondaryLinkedText>
                 {(isDevelopmentEnv() || isStagingEnv()) && (
                   <SecondaryLinkedText onClick={openFeatureFlagsModal}>
